@@ -17,6 +17,8 @@ USE_PARTIAL_DATA = 0
 SEED = 12
 BLOCK_SIZE = 10
 
+print "debug"
+
 def extract_wave(filename):
     print "loading data..."
 
